@@ -31,7 +31,7 @@
 
 //*Store and retrieve data using literal and variable values in C#
 
-//!unit-1
+//!unit-2
 
 //?char data type
 
@@ -55,5 +55,17 @@
 
 //?boolean data type
 
-Console.WriteLine(true);
-Console.WriteLine(false);
+// Console.WriteLine(true);
+// Console.WriteLine(false);
+
+//!unit-3
+
+// string firstName;
+// char useOption;
+// int gameScore;
+// decimal particlesPerMillion;
+// bool processedCustomer;
+
+
+
+
