@@ -67,5 +67,10 @@
 // bool processedCustomer;
 
 
+//!unit-4
+
+// string firstName; //?decleare the variable | initialise the variable
+// firstName = "Wenuja"; //?assign values to the variable
+// Console.WriteLine(firstName);
 
 
